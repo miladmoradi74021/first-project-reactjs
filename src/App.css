@@ -1,0 +1,48 @@
+.App {
+  height: 100vh;
+  background-image: linear-gradient(to top, #0448ad, #0df0f0);
+  overflow: hidden;
+}
+
+.fa-plus {
+  color: white;
+}
+
+.fa-trash {
+  color: white;
+}
+
+.deleteButton {
+  background-color: orangered;
+  margin-left: 5px !important;
+}
+
+
+.primaryButton {
+  background-color: blueviolet;
+  margin-left: 5px !important;
+}
+
+.list-group {
+  border-radius: unset;
+}
+
+.list-group-item {
+  background-color: rgb(245, 245, 245);
+  border: unset;
+}
+
+.card-body {
+  overflow: auto;
+  max-height: 250px;
+}
+
+.row {
+  height: 75%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.form-control , .btn{
+  line-height:2 !important;
+}
