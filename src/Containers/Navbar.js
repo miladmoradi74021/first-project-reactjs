@@ -10,10 +10,13 @@ const Navbar = () => {
                 <div className="container-fluid">
                     <ul className="nav">
                         <li className="ml-5">
-                            <Link className="btn" to="/">Tasks</Link>
+                            <Link className="btn" to="/">Products</Link>
                         </li>
                         <li className="ml-5">
                             <Link className="btn" to="/UserContainer">Register</Link>
+                        </li>
+                        <li className="ml-5">
+                            <Link className="btn" to="/TaskContainer">Tasks</Link>
                         </li>
                     </ul>
                 </div>
