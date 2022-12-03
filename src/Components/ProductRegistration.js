@@ -58,7 +58,8 @@ const ProductRegistration = () => {
         <>
             <div className=" d-flex row">
                 {/* Forms */}
-                <div className="card col-md-8 mx-auto center">
+                <div className="col-md-4 "></div>
+                <div className="card col-md-6 ">
                     <div className="px-3">
                         <h1 className="my-4">Product Registration</h1>
                     </div>

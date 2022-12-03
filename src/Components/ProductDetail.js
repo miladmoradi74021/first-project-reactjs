@@ -36,7 +36,8 @@ const ProductDetail = () => {
     } else {
         component =
             <div className=" d-flex row">
-                <div className="card col-md-6 mx-auto center mb-5">
+                <div className="col-md-4 "></div>
+                <div className="card col-md-6 mb-5">
                     <div className="px-3">
                         <h3 className="my-5">{product.title}</h3>
                     </div>
